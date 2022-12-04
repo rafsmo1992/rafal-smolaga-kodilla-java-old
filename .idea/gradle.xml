@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../gradle-7.5.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-course" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../gradle-7.5.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-course" />
+            <option value="$PROJECT_DIR$/kodilla-course/TicTacToeConsole" />
+            <option value="$PROJECT_DIR$/kodilla-course/exception" />
+            <option value="$PROJECT_DIR$/kodilla-course/kodilla-course" />
+            <option value="$PROJECT_DIR$/kodilla-course/kodilla-exception" />
+            <option value="$PROJECT_DIR$/kodilla-course/kodilla-good-patterns" />
+            <option value="$PROJECT_DIR$/kodilla-course/kodilla-jdbc" />
+            <option value="$PROJECT_DIR$/kodilla-course/kodilla-patterns" />
+            <option value="$PROJECT_DIR$/kodilla-course/kodilla-rps" />
+            <option value="$PROJECT_DIR$/kodilla-course/kodilla-stream" />
+            <option value="$PROJECT_DIR$/kodilla-course/kodilla-testing" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-course/kodilla-spring-web" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../gradle-7.5.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-course/kodilla-spring-web" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-course/test" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../gradle-7.5.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kodilla-course/test" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="kodilla-course.kodilla-course.main" target="17" />
+      <module name="kodilla-course.kodilla-course.test" target="17" />
+      <module name="kodilla-course.kodilla-spring" target="17" />
+      <module name="kodilla-course.kodilla-spring-intro" target="17" />
+      <module name="kodilla-course.kodilla-spring-intro.main" target="17" />
+      <module name="kodilla-course.kodilla-spring-intro.test" target="17" />
+      <module name="kodilla-course.kodilla-spring-web" target="17" />
+      <module name="kodilla-course.kodilla-spring-web.main" target="17" />
+      <module name="kodilla-course.kodilla-spring-web.test" target="17" />
+      <module name="kodilla-course.kodilla-spring.main" target="17" />
+      <module name="kodilla-course.kodilla-spring.test" target="17" />
+      <module name="kodilla-course.kodilla-testing.user.main" target="17" />
+      <module name="kodilla-course.kodilla-testing.user.test" target="17" />
+      <module name="kodilla-course.testing" target="17" />
+      <module name="kodilla-course.testing.main" target="17" />
+      <module name="kodilla-course.testing.test" target="17" />
+      <module name="kodilla-course.untitled" target="17" />
+      <module name="kodilla-course.untitled.main" target="17" />
+      <module name="kodilla-course.untitled.test" target="17" />
+      <module name="kodilla-spring" target="17" />
+      <module name="kodilla-spring.main" target="17" />
+      <module name="kodilla-spring.test" target="17" />
+      <module name="test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="test" options="-parameters" />
+    </option>
+  </component>
+</project>
